@@ -53,4 +53,5 @@ names(tidy)[1] <- 'subject'
 names(tidy)[2] <- 'activity'
 
 # Write out the tidy data set
+print(tidy)
 write.table(tidy, file = "C:/Users/ckerriga/Documents/Coursera/tidy_data_C3W4.txt", row.names = FALSE)
