@@ -1,4 +1,4 @@
-# Course3_Week4
+# Course3_Week4 README
 
 This is the README file for the Course 3, Week 4 final programming assignment.
 
